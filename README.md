@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @feliper4241
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 Oi, sou o felipe
+- 👀 desenvolvedor de sites e plugins
+- 🌱 Streamer gamer de minecraft
+- 💞️ Estou procurando Devs para equipe
+- 📫 Minhas redes sociais está na bio
+- 😄 Caso queira se juntar a equipe 
+- ⚡ Entre em contato no link da bio
 
 <!---
-feliper4241/feliper4241 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+feliper4241/feliper4241 esse é um✨ especial ✨ repositorio com `README.md` (esse arquivo) esta no meu perfil.
+Você pode clicar no link para ver as configurações.
 --->
