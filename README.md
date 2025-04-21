@@ -1,5 +1,5 @@
-- 👋 Oi, sou o felipe
-- 👀 desenvolvedor de sites e plugins
+- 👋 Oi, sou o Felipe
+- 👀 desenvolvedor de sites, plugins e app
 - 🌱 Streamer gamer de minecraft
 - 💞️ Estou procurando Devs para equipe
 - 📫 Minhas redes sociais está na bio
