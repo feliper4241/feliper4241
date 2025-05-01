@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Felipe Ramon!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💼 Técnico em Informática | Desenvolvedor Front-end e Back-end  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - UniCeub
+💼 Técnico em Informática | Desenvolvedor Full Stack 
 🚀 Apaixonado por tecnologia, inovação, games e projetos open source  
 📍 Valparaíso de Goiás - GO, Brasil  
 
