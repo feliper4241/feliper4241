@@ -1,9 +1,9 @@
 # 👋 Olá, eu sou Felipe Ramon!
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - Uniceub
-💼 Técnico em Informática | Desenvolvedor Full Stack
-🚀 Apaixonado por Tecnologia, Inovação, Games e Projetos Open Source
-📍 Valparaíso de Goiás - GO, Brasil
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas - Uniceub
+- 💼 Técnico em Informática | Desenvolvedor Full Stack
+- 🚀 Apaixonado por Tecnologia, Inovação, Games e Projetos Open Source
+- 📍 Valparaíso de Goiás - GO, Brasil
 
 ## 🚧 Em andamento:
 - 🎮 Projeto ClickPremiado – App de recompensas com foco em engajamento no YouTube
