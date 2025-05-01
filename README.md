@@ -8,6 +8,7 @@
 ## 🚧 Em andamento:
 - 🎮 Projeto ClickPremiado – App de recompensas com foco em engajamento no YouTube
 - 🧠 Plugin ConectaChat – Integração entre chat do TikTok e Minecraft
+- 🧠 App calculadoraimc - App android para informação da saúde
 - ⚛️ Simulador de Qubits – Experiência prática com computação quântica usando Qiskit
 
 ## 🧰 Tecnologias que uso:
